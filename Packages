@@ -1,0 +1,90 @@
+Package: com.douglasneto.lifecounter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0)
+Filename: debs/com.douglasneto.lifecounter_1.0_iphoneos-arm.deb
+Size: 82712
+MD5sum: 1e7fb0d389ac16291007a3b383071b72
+SHA1: 23c1d3ae1c96a1b859dfbbd3eb7f38184244f394
+SHA256: e8b7cb25c59b0b09b91705ccfd11e5f0957ff9d8215e5bef03a83b70def65a4d
+Section: Games
+Homepage: https://github.com/douugr/vida-mtg
+Description: Life counter for Magic: The Gathering (Commander), 2 to 6 players, with poison and commander damage.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.lifecounter.html
+Icon: file:///Applications/LifeCounter.app/Icon-76@2x.png
+Name: MTG Life
+
+Package: com.douglasneto.md16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0), ch.ringwald.btstack
+Filename: debs/com.douglasneto.md16_1.0_iphoneos-arm.deb
+Size: 996162
+MD5sum: 2a8840d93926469bedc27adcc38ead9d
+SHA1: 9a066c3aa56629c690848688db6118136d040e79
+SHA256: 99266afba091ab165e3579e545a6274954e4f5219fc7d41246431a6af9d41d6f
+Section: Games
+Homepage: https://github.com/douugr/md16
+Description: Mega Drive / Genesis emulator with Bluetooth controller support (8BitDo and others), save states and ROM upload from a browser.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.md16.html
+Icon: file:///Applications/MD16.app/Icon-76@2x.png
+Name: MD16
+
+Package: com.douglasneto.padprobe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0), ch.ringwald.btstack
+Filename: debs/com.douglasneto.padprobe_1.0_iphoneos-arm.deb
+Size: 57700
+MD5sum: 5e23f6e06393e8388ed373c878661a8b
+SHA1: c9aff2eb443fdfbb440a1b9b2c617fa63a7f7c2c
+SHA256: f7b39c2b30baa4453e02963fb7533a862c89939f7df7497468d8d6d97c22e577
+Section: Utilities
+Homepage: https://github.com/douugr/padprobe
+Description: Bluetooth controller diagnostics via BTstack: shows the raw HID report for every button.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.padprobe.html
+Icon: file:///Applications/PadProbe.app/Icon-76@2x.png
+Name: PadProbe
+
+Package: com.douglasneto.snes16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0), ch.ringwald.btstack
+Filename: debs/com.douglasneto.snes16_1.0_iphoneos-arm.deb
+Size: 423986
+MD5sum: a945a80f2147c14b066a3022f97ff8b3
+SHA1: 021189330ec6b67fa25b0f6b5697d3984c370839
+SHA256: 34662103a36ee8ddbff6942f42fb887a0944e46dbe56e8e9ccc39bd5de98a13e
+Section: Games
+Homepage: https://github.com/douugr/snes16
+Description: Super Nintendo emulator (Snes9x 2005) with Bluetooth controller support, save states and ROM upload from a browser.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.snes16.html
+Icon: file:///Applications/SNES16.app/Icon-76@2x.png
+Name: SNES16
+
+Package: com.douglasneto.tabletop
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0)
+Filename: debs/com.douglasneto.tabletop_1.0_iphoneos-arm.deb
+Size: 94182
+MD5sum: ac199dcb4177cd7fba8be6b19ef30061
+SHA1: 3e402d874d404a9ea1c1de105ba48bee6995267c
+SHA256: 4a6905046d0b8a932b41a2c574da89d63c20741cb92aec9092e71435e2e14271
+Section: Games
+Homepage: https://github.com/douugr/mesa-rpg
+Description: Tabletop RPG battle map with a grid, tokens, HP and initiative order.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.tabletop.html
+Icon: file:///Applications/Tabletop.app/Icon-76@2x.png
+Name: Tabletop
+
