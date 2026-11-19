@@ -68,6 +68,7 @@ a{color:#0a64d6;text-decoration:none}
 def page(title, body):
     return f"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>{html.escape(title)}</title><style>{CSS}</style></head>
 <body><div class="wrap">{body}</div></body></html>
