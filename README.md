@@ -10,6 +10,7 @@ In Cydia or Melder: **Sources → Edit → Add**, then paste the address.
 | --- | --- | --- |
 | MD16 | Mega Drive / Genesis emulator with Bluetooth controller support | [douugr/md16](https://github.com/douugr/md16) |
 | SNES16 | Super Nintendo emulator with Bluetooth controller support | [douugr/snes16](https://github.com/douugr/snes16) |
+| PSX32 | PlayStation emulator with JIT, Bluetooth and DualShock controller support | [douugr/psx32](https://github.com/douugr/psx32) |
 | MTG Life | Life counter for Magic (Commander) | [douugr/vida-mtg](https://github.com/douugr/vida-mtg) |
 | Tabletop | Tabletop RPG battle map with tokens and initiative | [douugr/mesa-rpg](https://github.com/douugr/mesa-rpg) |
 | PadProbe | Bluetooth controller diagnostics | [douugr/padprobe](https://github.com/douugr/padprobe) |

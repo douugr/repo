@@ -13,6 +13,7 @@ mkdir -p debs
 PKGS=(
 "com.douglasneto.md16|MD16|MD16.app|MD16/build/MD16.app|Games|ch.ringwald.btstack|Mega Drive / Genesis emulator with Bluetooth controller support (8BitDo and others), save states and ROM upload from a browser.|md16|MD16/core/gpgx/LICENSE.txt:genesis-plus-gx.txt"
 "com.douglasneto.snes16|SNES16|SNES16.app|SNES16/build/SNES16.app|Games|ch.ringwald.btstack|Super Nintendo emulator (Snes9x 2005) with Bluetooth controller support, save states and ROM upload from a browser.|snes16|SNES16/core/s9x/copyright:snes9x.txt"
+"com.douglasneto.psx32|PSX32|PSX32.app|PSX32/build/PSX32.app|Games|ch.ringwald.btstack|PlayStation emulator (PCSX ReARMed with its ARM recompiler) with Bluetooth controller and DualShock support, save states and disc upload from a browser.|psx32|PSX32/core/pcsx/COPYING:pcsx-rearmed-gpl-2.0.txt"
 "com.douglasneto.lifecounter|MTG Life|LifeCounter.app|LifeCounter/build/Payload/LifeCounter.app|Games||Life counter for Magic: The Gathering (Commander), 2 to 6 players, with poison and commander damage.|vida-mtg|"
 "com.douglasneto.tabletop|Tabletop|Tabletop.app|Tabletop/build/Payload/Tabletop.app|Games||Tabletop RPG battle map with a grid, tokens, HP and initiative order.|mesa-rpg|"
 "com.douglasneto.padprobe|PadProbe|PadProbe.app|PadProbe/build/PadProbe.app|Utilities|ch.ringwald.btstack|Bluetooth controller diagnostics via BTstack: shows the raw HID report for every button.|padprobe|"
