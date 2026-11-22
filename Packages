@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Douglas Neto <douugr@users.noreply.github.com>
 Depends: firmware (>= 8.0), firmware (<< 11.0)
 Filename: debs/com.douglasneto.lifecounter_1.0_iphoneos-arm.deb
-Size: 82714
-MD5sum: 166ceb5d52a2f72fc1a528e83e0034ca
-SHA1: 12be867a8fd2e4238cede1ecff3026b24c0d470b
-SHA256: 68656546d9fde68a676a0c5774e636d98c8bf7380221c3a31181b4f10ae4a91d
+Size: 82712
+MD5sum: d995c04a6a70b71671a6ca6bc5481d04
+SHA1: 06d3d581ea82a52e264603af93a8519ab9ff423c
+SHA256: 73fee9a0dedee3375c1a686b8e200ad654141fd37d434145fdf4c01641265bfe
 Section: Games
 Homepage: https://github.com/douugr/vida-mtg
 Description: Life counter for Magic: The Gathering (Commander), 2 to 6 players, with poison and commander damage.
@@ -88,16 +88,34 @@ Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.md16.html
 Icon: file:///Applications/MD16.app/Icon-76@2x.png
 Name: MD16
 
+Package: com.douglasneto.md16
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0), ch.ringwald.btstack
+Filename: debs/com.douglasneto.md16_1.4_iphoneos-arm.deb
+Size: 1193462
+MD5sum: 9ce3a72d39c505c4c58f9dac3fcb8430
+SHA1: fa8b0e2ba5d694c8b84635a05316e418a2ff3cd4
+SHA256: e3aa7a3d364c9e38070efd27b2220d1998d39009f76a6c9e01362be1dc5dd5e7
+Section: Games
+Homepage: https://github.com/douugr/md16
+Description: Mega Drive / Genesis emulator with Bluetooth controller support (8BitDo and others), save states and ROM upload from a browser.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.md16.html
+Icon: file:///Applications/MD16.app/Icon-76@2x.png
+Name: MD16
+
 Package: com.douglasneto.padprobe
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Douglas Neto <douugr@users.noreply.github.com>
 Depends: firmware (>= 8.0), firmware (<< 11.0), ch.ringwald.btstack
 Filename: debs/com.douglasneto.padprobe_1.0_iphoneos-arm.deb
-Size: 57702
-MD5sum: b6ee1622f3af3073945b7c3414ef473b
-SHA1: c137fab21fe32b68f909163c49fa515999de81af
-SHA256: c676f960078711bbbe7ba4490a1668846dafc1a12f7d4f1947ec4f25388ef15d
+Size: 57700
+MD5sum: 01ee43c49a4420ae042b3bb538148e3f
+SHA1: 3ce3862d92cfe26577e1b2cb03e53da7a75c7a02
+SHA256: 15738490745c7774b0cac6e711cdd26d3cdd80ddb5c4357672bc741f11a52514
 Section: Utilities
 Homepage: https://github.com/douugr/padprobe
 Description: Bluetooth controller diagnostics via BTstack: shows the raw HID report for every button.
@@ -178,6 +196,24 @@ Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.psx32.html
 Icon: file:///Applications/PSX32.app/Icon-76@2x.png
 Name: PSX32
 
+Package: com.douglasneto.psx32
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0), ch.ringwald.btstack
+Filename: debs/com.douglasneto.psx32_1.4_iphoneos-arm.deb
+Size: 1074856
+MD5sum: 480afc625ac584aa46f94678a1abb576
+SHA1: b300c1fe9836f65cd3a4db5612e6fafcad08835b
+SHA256: 4c4d08becfce90fbc4099a93cae861b035b5b0f37474691e998960ba5e8f329c
+Section: Games
+Homepage: https://github.com/douugr/psx32
+Description: PlayStation emulator (PCSX ReARMed with its ARM recompiler) with Bluetooth controller and DualShock support, save states and disc upload from a browser.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.psx32.html
+Icon: file:///Applications/PSX32.app/Icon-76@2x.png
+Name: PSX32
+
 Package: com.douglasneto.snes16
 Version: 1.0
 Architecture: iphoneos-arm
@@ -250,16 +286,34 @@ Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.snes16.html
 Icon: file:///Applications/SNES16.app/Icon-76@2x.png
 Name: SNES16
 
+Package: com.douglasneto.snes16
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0), ch.ringwald.btstack
+Filename: debs/com.douglasneto.snes16_1.4_iphoneos-arm.deb
+Size: 621838
+MD5sum: 2f8ca308147f80d7b1859c8799038730
+SHA1: d302aaed33f3275111b7df47398536b5791aadd1
+SHA256: 0bea992c1c1c86f185ada9f7450655a140bfef5c97834abebb0abcb1b7b18d20
+Section: Games
+Homepage: https://github.com/douugr/snes16
+Description: Super Nintendo emulator (Snes9x 2005) with Bluetooth controller support, save states and ROM upload from a browser.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.snes16.html
+Icon: file:///Applications/SNES16.app/Icon-76@2x.png
+Name: SNES16
+
 Package: com.douglasneto.tabletop
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Douglas Neto <douugr@users.noreply.github.com>
 Depends: firmware (>= 8.0), firmware (<< 11.0)
 Filename: debs/com.douglasneto.tabletop_1.0_iphoneos-arm.deb
-Size: 94182
-MD5sum: 69720da54fbb7d52699997deaf7ce752
-SHA1: 313e6799ec88c4eceb457197e8f3dbd90a21ada4
-SHA256: dbe1274cf6164a6a1b5bd7b208276260be17df862ec20442a814bd1399462404
+Size: 94184
+MD5sum: d2d410dd9e0a18e1f580033c7cf8f5c6
+SHA1: 76ffe7ff5022f076fe8dbba5778995dc6dad1506
+SHA256: ea6045a0e223bb2e17250b5300405c18fb79e26cb107f4e2667cb6974e4773e3
 Section: Games
 Homepage: https://github.com/douugr/mesa-rpg
 Description: Tabletop RPG battle map with a grid, tokens, HP and initiative order.
