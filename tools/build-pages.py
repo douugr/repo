@@ -63,6 +63,7 @@ PKGS = [
          features=["Needs the free PadDeck app on the Mac: download PadDeck-mac.zip from github.com/douugr/paddeck/releases (macOS 12+)",
                    "Trackpad: tap to click, two-finger right click and scroll, double-tap and drag, three-finger swipes for Mission Control and Spaces",
                    "Large keyboard with ABC, 123, symbols and fn tabs (esc, F1–F12, arrows, media keys); hold a letter for accents like ç, ã, é",
+                   "Keyboard below or above the trackpad, your choice in Settings",
                    "Works with any Mac keyboard layout; the iOS keyboard is one tap away for emoji and dictation",
                    "Stream Deck-style panel: 3 pages of 15 buttons for shortcuts, text, opening apps or websites and media keys",
                    "Finds the Mac on Wi-Fi by itself and pairs with a 4-digit PIN",
