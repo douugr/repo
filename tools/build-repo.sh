@@ -16,6 +16,7 @@ PKGS=(
 "com.douglasneto.psx32|PSX32|PSX32.app|PSX32/build/PSX32.app|Games|ch.ringwald.btstack|PlayStation emulator (PCSX ReARMed with its ARM recompiler) with Bluetooth controller and DualShock support, save states and disc upload from a browser.|psx32|PSX32/core/pcsx/COPYING:pcsx-rearmed-gpl-2.0.txt"
 "com.douglasneto.lifecounter|MTG Life|LifeCounter.app|LifeCounter/build/Payload/LifeCounter.app|Games||Life counter for Magic: The Gathering (Commander), 2 to 6 players, with poison and commander damage.|vida-mtg|"
 "com.douglasneto.tabletop|Tabletop|Tabletop.app|Tabletop/build/Payload/Tabletop.app|Games||Tabletop RPG battle map with a grid, tokens, HP and initiative order.|mesa-rpg|"
+"com.douglasneto.paddeck|PadDeck|PadDeck.app|../paddeck/ipad/build/PadDeck.app|Utilities||Keyboard, trackpad and Stream Deck-style shortcuts for your Mac, over Wi-Fi or a USB cable. Needs the free PadDeck app on the Mac.|paddeck|"
 "com.douglasneto.padprobe|PadProbe|PadProbe.app|PadProbe/build/PadProbe.app|Utilities|ch.ringwald.btstack|Bluetooth controller diagnostics via BTstack: shows the raw HID report for every button.|padprobe|"
 )
 

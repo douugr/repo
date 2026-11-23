@@ -13,6 +13,7 @@ In Cydia or Melder: **Sources → Edit → Add**, then paste the address.
 | PSX32 | PlayStation emulator with JIT, Bluetooth and DualShock controller support | [douugr/psx32](https://github.com/douugr/psx32) |
 | MTG Life | Life counter for Magic (Commander) | [douugr/vida-mtg](https://github.com/douugr/vida-mtg) |
 | Tabletop | Tabletop RPG battle map with tokens and initiative | [douugr/mesa-rpg](https://github.com/douugr/mesa-rpg) |
+| PadDeck | Keyboard, trackpad and shortcut panel for your Mac (Wi-Fi or USB) | [douugr/paddeck](https://github.com/douugr/paddeck) |
 | PadProbe | Bluetooth controller diagnostics | [douugr/padprobe](https://github.com/douugr/padprobe) |
 
 ## Updating the repository
