@@ -142,6 +142,24 @@ Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.paddeck.html
 Icon: file:///Applications/PadDeck.app/Icon-76@2x.png
 Name: PadDeck
 
+Package: com.douglasneto.paddeck
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Douglas Neto <douugr@users.noreply.github.com>
+Depends: firmware (>= 8.0), firmware (<< 11.0)
+Filename: debs/com.douglasneto.paddeck_1.2_iphoneos-arm.deb
+Size: 118926
+MD5sum: 5159564af27d1644d1eb0730bfc8d124
+SHA1: bba81ac26e14a80c57dc341225e4d3e5c96dc3d3
+SHA256: 63b7919df7fbe8923bbc6d1bd014bf3fd52a4bac4e5652e0a0a52d199678d06a
+Section: Utilities
+Homepage: https://github.com/douugr/paddeck
+Description: Keyboard, trackpad and Stream Deck-style shortcuts for your Mac, over Wi-Fi or a USB cable. Needs the free PadDeck app on the Mac.
+Author: Douglas Neto <douugr@users.noreply.github.com>
+Depiction: https://douugr.github.io/repo/depictions/com.douglasneto.paddeck.html
+Icon: file:///Applications/PadDeck.app/Icon-76@2x.png
+Name: PadDeck
+
 Package: com.douglasneto.padprobe
 Version: 1.0
 Architecture: iphoneos-arm
