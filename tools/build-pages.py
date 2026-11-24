@@ -62,6 +62,7 @@ PKGS = [
          tag="Keyboard, trackpad and shortcuts for your Mac", needs_bt=False,
          features=["Needs the free PadDeck app on the Mac: download PadDeck-mac.zip from github.com/douugr/paddeck/releases (macOS 12+)",
                    "Trackpad: tap to click, two-finger right click and scroll with momentum (flick it like a Mac trackpad), double-tap and drag, three-finger swipes for Mission Control and Spaces",
+                   "Scroll strip on the edge of the trackpad: scroll with one finger, on the right or left side (can be turned off in Settings)",
                    "Large keyboard with ABC, 123, symbols and fn tabs (esc, F1–F12, arrows, media keys); hold a letter for accents like ç, ã, é",
                    "Keyboard below or above the trackpad, your choice in Settings",
                    "Works with any Mac keyboard layout; the iOS keyboard is one tap away for emoji and dictation",
