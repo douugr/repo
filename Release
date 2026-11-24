@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Emulators and apps made for old jailbroken iPads (iOS 8 to 10)
-Date: Tue, 24 Nov 2026 11:13:56 +0000
+Date: Tue, 24 Nov 2026 13:10:59 +0000
 MD5Sum:
- 0352bfe9afa4c0e6514369b1468b078a            18986 Packages
- 0cbb3fbb304cb15172ea67c8e640e4f8             3636 Packages.bz2
- 0b0adc9cfb9b2c9710e90ea662bda990             3406 Packages.gz
+ 3b144cde5f4fc4b83e9a87a170c4a041            19811 Packages
+ 8c66db833d55b158372fea87437414b8             3696 Packages.bz2
+ eed60fcb2689ecb3d121d42cda7cd52d             3508 Packages.gz
 SHA1:
- 5f29aaa033f8ba48a3684c5301efcfc35373a74e            18986 Packages
- 5005c91cc0881ea8a54177d09998094f6ae2396c             3636 Packages.bz2
- 5f3adb7d9044418d830df128ea5533fd2d868f7a             3406 Packages.gz
+ 87b2f255430f70dd5092661dbd2959af3eb844da            19811 Packages
+ 3824679c680cbf65cc98fc4ab95027a82e580f3c             3696 Packages.bz2
+ 08d40ca40b60f407fb1e57b4c2b624b2939b53fb             3508 Packages.gz
 SHA256:
- 1397fe213b84a3937205526642b55f5497d5c6e49d0d0e550783058e6b21470c            18986 Packages
- 17bd4dd89bba729b89a442d4654b7d97c22f41451e768e0be8bc072250f7a26a             3636 Packages.bz2
- fa24dbbed919f3317176ff541a6cae828b14e97a14fa4b9a74370522ef30251c             3406 Packages.gz
+ 292467542110a6a60a66c325eb79fb5c222c7bb01944952fc81583fa769810eb            19811 Packages
+ 9033555b3009b70135bacc7dc8dcc86c8ecc9d692dbbca3b5df5289239872107             3696 Packages.bz2
+ 6bbbd81b7b9ad768d31ce96446969e96e913e22de920b91f1d864cc04c920d08             3508 Packages.gz

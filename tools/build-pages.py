@@ -65,6 +65,7 @@ PKGS = [
                    "Scroll strip on the edge of the trackpad: scroll with one finger, on the right or left side (can be turned off in Settings)",
                    "Large keyboard with ABC, 123, symbols and fn tabs (esc, F1–F12, arrows, media keys); hold a letter for accents like ç, ã, é",
                    "Keyboard below or above the trackpad, your choice in Settings",
+                   "Color profiles that match your Mac: MacBook Neo, Air and Pro finishes and the iMac colors",
                    "Works with any Mac keyboard layout; the iOS keyboard is one tap away for emoji and dictation",
                    "Stream Deck-style panel: 3 pages of 15 buttons for shortcuts, text, opening apps or websites and media keys",
                    "Finds the Mac on Wi-Fi by itself and pairs with a 4-digit PIN",
